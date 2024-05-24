@@ -1,0 +1,8 @@
+0 arka
+1 asagi
+2 bati
+3 dogu
+4 on
+5 sag
+6 sol
+7 yukari

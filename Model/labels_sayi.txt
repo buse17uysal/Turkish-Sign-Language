@@ -1,0 +1,9 @@
+0 bir
+1 iki
+2 uc
+3 dort
+4 bes
+5 alti
+6 yedi
+7 sekiz
+8 dokuz

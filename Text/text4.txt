@@ -1,0 +1,12 @@
+Bu projede kullanılan geliştirme araçları, projenin daha verimli ve etkili bir şekilde geliştirilmesini sağlamak için seçilmiştir. Aşağıda, bu araçlar ve kullanım amaçları hakkında bilgiler bulunmaktadır:
+
+1. Python: Projemizin ana programlama dili olup, geniş kütüphane desteği ve esnekliği sayesinde tercih edilmiştir.
+2. OpenCV: Görüntü işleme ve el takip için kullanılan güçlü bir kütüphanedir. Projemizde el hareketlerini algılamak ve işlemek için kullanılmıştır.
+3. MediaPipe: El takip ve algılama işlemlerinde kullanılan bir başka kütüphanedir. Özellikle el hareketlerinin doğruluğunu artırmak için kullanılmıştır.
+4. CustomTkinter: Kullanıcı arayüzünü oluşturmak için kullanılan modern ve özelleştirilebilir bir Tkinter çerçevesidir. Estetik açıdan kullanılmıştır.
+5. SpeechRecognition: Ses tanıma işlemleri için kullanılan bir Python kütüphanesidir. Projemizde, sesli komutları algılamak ve metne dönüştürmek için kullanılmıştır.
+6. NumPy: Matematiksel işlemler ve dizilerle çalışmak için kullanılan bir kütüphanedir. Görüntü işleme görevlerinde önemli bir rol oynamaktadır.
+7. cvzone: Çeşitli görüntü işleme işlemlerini gerçekleştirmek için önceden eğitilmiş modeller ve yardımcı fonksiyonlar sağlayan bir kütüphane olup, OpenCV üzerine inşa edilmiştir ve el takip modülü ile projede yer almaktadır.
+8. Teachable Machine: Makine öğrenimi modelinin eğitimini kolaylaştıran ve özelleştirilmiş sınıflandırıcılar oluşturmayı sağlayan bir platformdur. Projemizde oluşturduğumuz datasetleri işlemek için kullanılmıştır.
+
+Bu araçlar, projemizin farklı bileşenlerini entegre ederek, daha işlevsel bir uygulama geliştirmemize olanak tanımıştır.

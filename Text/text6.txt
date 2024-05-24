@@ -1,0 +1,11 @@
+Bu projede kullanılan kaynaklar ve referanslar, projenin başarısı ve doğruluğu açısından büyük önem taşımaktadır. Aşağıda, projenin geliştirilmesinde faydalanılan ana kaynaklar ve referanslar listelenmiştir:
+
+1. OpenCV Documentation: Görüntü işleme ve bilgisayarla görme teknikleri hakkında detaylı bilgiler içeren resmi OpenCV dökümantasyonu. (https://docs.opencv.org/)
+2. MediaPipe Documentation: El takip ve algılama işlemlerinde kullanılan MediaPipe kütüphanesinin resmi dökümantasyonu. (https://mediapipe.dev/)
+3. SpeechRecognition Library: Python için ses tanıma kütüphanesi hakkında detaylı bilgiler ve kullanım örnekleri. (https://pypi.org/project/SpeechRecognition/)
+4. NumPy Documentation: Matematiksel işlemler ve dizilerle çalışmak için kullanılan NumPy kütüphanesi hakkında bilgiler. (https://numpy.org/doc/)
+5. cvzone Library: Bilgisayarla görme ve OpenCV işlemlerini kolaylaştırmak için kullanılan cvzone kütüphanesi. (https://cvzone.readthedocs.io/)
+6. CustomTkinter Documentation: Modern ve özelleştirilebilir arayüz bileşenleri için kullanılan CustomTkinter kütüphanesi hakkında bilgiler. (https://github.com/TomSchimansky/CustomTkinter)
+7. Python Documentation: Projenin ana programlama dili olan Python hakkında kapsamlı bilgiler ve rehberler. (https://docs.python.org/3/)
+
+Bu kaynaklar, projenin her aşamasında yol gösterici olmuş ve projenin teknik altyapısının oluşturulmasında kritik rol oynamıştır.

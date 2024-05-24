@@ -1,0 +1,17 @@
+0 armut
+1 ayran
+2 ayva
+3 biber
+4 elma
+5 erik
+6 helva
+7 kayisi
+8 kiraz
+9 misir
+10 patates
+11 patlican
+12 seftali
+13 seker
+14 su
+15 tuz
+16 yag

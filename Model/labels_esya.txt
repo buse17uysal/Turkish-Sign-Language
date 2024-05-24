@@ -1,0 +1,10 @@
+0 anahtar
+1 ayna
+2 bardak
+3 cakmak
+4 isik
+5 makas
+6 merdiven
+7 musluk
+8 tava
+9 telefon

@@ -1,0 +1,10 @@
+0 beyaz
+1 gri
+2 kahverengi
+3 kirmizi
+4 lacivert
+5 mavi
+6 pembe
+7 sari
+8 siyah
+9 turuncu

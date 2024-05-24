@@ -1,0 +1,9 @@
+Proje Hakkında
+
+Projemiz, "Dijital erişilebilirlik her bireyin temel hakkıdır; doğduğumuz şartlar ne olursa olsun, yaşamın her alanında eşit fırsatlara sahip olmalıyız" ilkesini benimseyerek, toplumsal adalet ve eşitlik için çaba göstermektedir. Bu proje, işitme engelli bireylerin günlük yaşamlarında daha bağımsız ve etkin bir şekilde iletişim kurabilmelerine olanak tanıyan yenilikçi bir çözüm sunmaktadır.
+
+Proje kapsamında, Türk alfabesini içeren 29 harften oluşan bir alfabeyi kamera aracılığıyla tanıyan bir sistem geliştirilmiştir. Bu sistem, kullanıcıların el hareketlerini ve parmak işaretlerini algılayarak doğru harfleri tanımlayabilmektedir. Ayrıca, işaret dili kullanarak 100 farklı kelimeyi tanımlayan kapsamlı bir veritabanı oluşturulmuştur. Bu veritabanı, kullanıcıların çeşitli günlük ihtiyaçlarını karşılayacak kelime ve ifadeleri içermekte olup, işitme engelli bireylerin çevreleriyle daha kolay iletişim kurmalarını sağlamaktadır.
+
+Dilsiz Çevirmeni Projesi, sesli komut entegrasyonuna da sahiptir. Bu özellik sayesinde, kullanıcılar belirli komutları sesli olarak vererek sistemin belirli işlevleri yerine getirmesini sağlayabilirler. Örneğin, kullanıcılar "başlat", "durdur" gibi komutlarla sistemin çalışma şeklini kontrol edebilirler. Bu, projeyi sadece işitme engelliler için değil, aynı zamanda çeşitli motor beceri kısıtlamaları olan bireyler için de erişilebilir kılmaktadır.
+
+Projede kullanılan teknoloji, yapay zeka ve makine öğrenmesi algoritmaları üzerine kuruludur. Bu sayede, sistem zamanla kullanıcıların el hareketlerini ve işaretlerini daha doğru bir şekilde tanımayı öğrenir ve performansını sürekli olarak geliştirir.

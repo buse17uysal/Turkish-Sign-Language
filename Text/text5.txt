@@ -1,0 +1,11 @@
+Bu projede, işaret dili çevirmeninin geliştirilmesi süreci belirli aşamalardan geçmiştir. Her aşama, projenin belirli bir bölümünün tamamlanmasını ve sonraki aşamaya geçilmesini sağlamıştır. Aşağıda, bu aşamalar detaylı olarak açıklanmaktadır:
+
+1. Gereksinim Analizi: Projenin başlangıç aşamasında, kullanıcı ihtiyaçları ve gereksinimleri belirlenmiştir. Bu gereksinimler doğrultusunda, projenin kapsamı ve hedefleri netleştirilmiştir.
+2. Araştırma ve Teknoloji Seçimi: İşaret dili tanıma ve çeviri için kullanılacak en uygun teknolojiler araştırılmıştır. OpenCV, MediaPipe, ve SpeechRecognition gibi kütüphanelerin projeye uygun olduğu belirlenmiştir.
+3. Prototip Geliştirme: İlk prototip, temel el hareketlerini algılayacak ve bunları sınıflandıracak şekilde geliştirilmiştir. Bu aşamada, algoritmaların doğruluğu ve performansı test edilmiştir.
+4. Kullanıcı Arayüzü Tasarımı: Kullanıcı dostu bir arayüz tasarlanmış ve geliştirilmiştir. Bu aşamada, CustomTkinter kullanılarak arayüz bileşenleri oluşturulmuştur.
+5. Entegrasyon: Farklı bileşenler bir araya getirilmiş ve entegrasyonu sağlanmıştır. El algılama, ses tanıma ve kullanıcı arayüzü entegrasyonu bu aşamada gerçekleştirilmiştir.
+6. Test ve Geri Bildirim: Proje ekip arkadaşlarımız tarafından test edilmiş ve hatalar tespit edilip düzeltilmiştir.
+7. Sonuçlandırma: Proje tamamlanmış ve son haliyle kullanıma sunulmuştur.
+
+Her aşama, projenin daha sağlam ve işlevsel olmasını sağlamak amacıyla dikkatle planlanmış ve yürütülmüştür.
