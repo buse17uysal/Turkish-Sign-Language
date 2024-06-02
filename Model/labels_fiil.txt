@@ -1,0 +1,13 @@
+0 Acikmak
+1 Agrimak
+2 Dokunmak
+3 Gelmek
+4 Kaybetmek
+5 Kesmek
+6 Kiskanmak
+7 Olmak
+8 Sevmek
+9 Telefonla Aramak
+10 Yazmak
+11 Koklamak
+12 Gitmek
