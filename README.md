@@ -42,3 +42,7 @@ pip install SpeechRecognition
 ## **Model**
 ### Teachable Machine
 Teachable Machine ile makine öğrenmesi kullanılarak h5 ve txt uzantılı dosyalar elde edildi. Çekilen fotoğrafların eğitilmesiyle elde edilen bu fotoğrafla veri seti oluşturuldu. Her kelime için yaklaşık 200 fotoğraf çekildi. Toplam yaklaşık 22500 fotoğraf ile 110 kelimelik veri seti oluşturuldu.
+
+
+## **Arayüz Tasarımı**
+![](Foto/arayuz.png)
