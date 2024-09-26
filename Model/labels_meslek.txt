@@ -1,0 +1,8 @@
+0 asker
+1 avukat
+2 bakkal
+3 doktor
+4 hakim
+5 hemsire
+6 marangoz
+7 mudur

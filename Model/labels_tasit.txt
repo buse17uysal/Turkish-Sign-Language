@@ -1,0 +1,6 @@
+0 araba
+1 dolmus
+2 gemi
+3 helikopter
+4 motorsiklet
+5 tir
