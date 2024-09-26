@@ -6,12 +6,12 @@ import math
 
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=2)
-classifier = Classifier("Model/keras_model_esya.h5" , "Model/labels_esya.txt")
+classifier = Classifier("Model/keras_model_hayvan.h5" , "Model/labels_hayvan.txt")
 offset = 20
 imgSize = 300
 counter = 0
 
-labels = []
+labels = ["Akrep", "Arslan", "At", "Balik", "Boga", "Deve", "Esek", "Hindi", "Horoz", "Kartal", "Kurt"]
 
 while True:
     success, img = cap.read()
