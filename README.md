@@ -8,4 +8,6 @@ Türk İşaret Dili algılama sistemi oluşturularak **Dilsiz Çevirmeni** adlı
 ### Python Versiyonu
 Python 3.8.10
 ### Kütüphaneler
+#### Opencv
+'pip install opencv-python'
 
